@@ -1,0 +1,102 @@
+[
+
+      {
+        "id": 1,
+        "name": "BookishVerse",
+        "photoURL": "https://i.ibb.co/vwcSy0M/istockphoto-140106715-1024x1024.jpg",
+        "content": "Content for Post 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 2,
+        "name": "BookWanderlust",
+        "photoURL":"https://i.ibb.co/tJzXMRb/istockphoto-147205632-1024x1024-1.jpg",
+        "content": "Content for Post 2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 3,
+        "name": "NovelNest",
+        "photoURL": "https://i.ibb.co/THGy7mx/istockphoto-160992305-1024x1024.jpg",
+        "content": "Content for Post 3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 4,
+        "name": "CoverToChapter",
+        "photoURL": "https://i.ibb.co/hsCDtBL/istockphoto-506133372-1024x1024.jpg",
+        "content": "Content for Post 4. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 5,
+        "name": "PagePulse",
+        "photoURL": "https://i.ibb.co/Mk79FMz/istockphoto-511739568-612x612.jpg",
+        "content": "Content for Post 5. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 6,
+        "name": "VerseVista",
+        "photoURL": "https://i.ibb.co/2SD64Gt/istockphoto-1136589956-1024x1024.jpg",
+        "content": "Content for Post 6. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 7,
+        "name": "ProsePinnacle",
+        "photoURL": "https://i.ibb.co/K0HbrWS/istockphoto-1171743715-612x612.jpg",
+        "content": "Content for Post 7. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 8,
+        "name": "BiblioBreeze",
+        "photoURL":"https://i.ibb.co/dfZhMBS/istockphoto-1183656281-612x612.jpg",
+        "content": "Content for Post 8. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 9,
+        "name": "InkAndInsight",
+        "photoURL": "https://i.ibb.co/cQdVYbN/istockphoto-1294008176-612x612.jpg",
+        "content": "Content for Post 9. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 10,
+        "name": "VerseVista",
+        "photoURL": "https://i.ibb.co/m0bGSxG/istockphoto-1216654125-612x612.jpg",
+        "content": "Content for Post 10. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 11,
+        "name": "VerseVoyage", 
+        "photoURL":  "https://i.ibb.co/BrYWqD7/istockphoto-1408867070-612x612.jpg",
+        "content": "Content for Post 11. Repellendus ut enim blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 12,
+        "name": " CoverToChapter",
+        "photoURL": "https://i.ibb.co/2Mbqsw1/istockphoto-1447218303-612x612.jpg",
+        "content": "Content for Post 12. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 13,
+        "name": "ProsePinnacle",
+        "photoURL":  "https://i.ibb.co/xjD73yg/istockphoto-1500316149-612x612.jpg",
+        "content": "Content for Post 13. Voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      },
+      {
+        "id": 14,
+        "name": "BiblioBreeze",
+        "photoURL":  "https://i.ibb.co/6rpsMVD/istockphoto-1492313721-612x612.jpg",
+        "content": "Content for Post 14. Soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.",
+        "smallimg":"https://i.ibb.co/VMk1CZQ/images.jpg"
+      }
+    
+]
